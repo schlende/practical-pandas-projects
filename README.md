@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schlende/practical-pandas-projects/master)
+
 # Practical pandas projects
 
 [pandas](https://pandas.pydata.org/) is a python library for doing exploratory data analysis.
