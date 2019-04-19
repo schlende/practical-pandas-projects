@@ -44,8 +44,30 @@ Most projects include:
 * Tracking your productivity
 * Tracking your phone usage
 
+# How to use the sample data
+
+The easiest way to is to use run the notebooks online using Binder. [Click this link](https://mybinder.org/v2/gh/schlende/practical-pandas-projects/master) and wait for Binder to load. You'll be able to start exploring the data without having to install any dependencies on your computer.
+
+Want to run the notebooks yourself on your computer?
+
+You'll need iPython notebook and pandas.
+
+Open a terminal and run:
+
+    git clone https://github.com/schlende/practical-pandas-projects.git
+
+    pip install jupyter
+    pip install -r requirements.txt
+
+    cd practical-pandas-projects
+    jupyter notebook
+
+
+A tab should open in your browser at ```http://localhost:8888```
+
+
 # Contrubute
-Want to contribute your own ideas? Feel free to make a pull request!
+Want to contribute your own ideas? Send me an email or make a pull request!
 
 
 # License
