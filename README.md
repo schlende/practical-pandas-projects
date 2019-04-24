@@ -66,7 +66,7 @@ Open a terminal and run:
 A tab should open in your browser at ```http://localhost:8888```
 
 
-# Contrubute
+# Contribute
 Have suggestions? Want to contribute your own ideas? Send me an email or make a pull request!
 
 
