@@ -44,6 +44,11 @@ Most projects include:
 * Tracking your productivity
 * Tracking your phone usage
 
+# Interactive projects online, ready to solve
+
+- [12 free Data Science projects to practice Python and Pandas](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)
+
+
 # How to use the sample data
 
 The easiest way to is to use run the notebooks online using Binder. [Click this link](https://mybinder.org/v2/gh/schlende/practical-pandas-projects/master) and wait for Binder to load. You'll be able to start exploring the data without having to install any dependencies on your computer.
